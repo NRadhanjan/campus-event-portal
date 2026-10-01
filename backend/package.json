@@ -1,0 +1,18 @@
+{
+  "name": "campus-event-portal-backend",
+  "version": "1.0.0",
+  "description": "Backend for BCSE320L Web Application Security Case Study with live Vulnerable/Defended Toggle",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}

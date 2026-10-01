@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Production build outputs
+dist/
+build/
+*/dist/
+
+# SQLite Database & local logs
+*.db
+*.sqlite
+campus_portal.db
+*.log
+npm-debug.log*
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
