@@ -2,8 +2,8 @@
 **Course:** BCSE320L – Web Application Security  
 **Project:** Scenario 1 – Campus Event Portal with a Recon Self-Audit  
 **Team Members:**
-- **Hemanth Varma Mudunuri (23BCI0133)** — *Frontend Lead & Exploit/Recon Lead*
-- **Radhanjan Neelamraju (23BCI0126)** — *Backend Lead & Defence Lead*
+- **Hemanth Varma Mudunuri**
+- **Radhanjan Neelamraju**
 
 ---
 
